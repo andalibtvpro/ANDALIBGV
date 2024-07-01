@@ -3,8 +3,8 @@
   "short_name": "ANDALIBTV",
   "start_url": "https://www.andalibtv.com/?m=1",
   "display": "standalone",
-  "background_color": "#bb00ff",
-  "theme_color": "#b700ff",
+  "background_color": "#A1279E",
+  "theme_color": "#A1279E",
   "description": "Stránka AndaliBTV je platforma, ktorá ponúka širokú škálu seriálov a filmov. Vyznačuje sa jednoduchým dizajnom, ktorý umožňuje používateľom ľahko prehľadávať obsah a vybrať si svoje obľúbené diela na sledovanie. Stránka poskytuje rôznorodý obsah, ktorý vyhovuje rôznym vkusom a obsahuje bohatú knižnicu drám, komédií, romantických filmov a ďalších.",
   "icons": [
     {
